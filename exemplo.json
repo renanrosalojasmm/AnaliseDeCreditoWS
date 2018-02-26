@@ -1,0 +1,58 @@
+{
+    "objeto": {
+        "Inputs": {
+            "input1": [
+                {
+                    "tipo_pessoa": "",
+                    "tipo_sexo": "",
+                    "idade": 99,
+                    "bairro_padrao": "",
+                    "cidade_padrao": "",
+                    "uf_padrao": "",
+                    "tipo_ocupacao": "",
+                    "cbo": "",
+                    "ramo_atividade": "",
+                    "tempo_lt": 99,
+                    "salario": 99,
+                    "possui_comercial": "",
+                    "cliente_diamante": "",
+                    "limite_diamante": 99,
+                    "cliente_novo": "",
+                    "perfil_compra": "",
+                    "perc_comp_compors": 99,
+                    "perc_comp_pmes": 99,
+                    "atraso_dia": 99,
+                    "media": 99,
+                    "total_compras": 99,
+                    "compras_comporsim": 99,
+                    "compras_compornao": 99,
+                    "total_parcelas": 99,
+                    "parcelas_comporsim": 99,
+                    "parcelas_compornao": 99,
+                    "parcelas_pagas": 99,
+                    "parcelas_pagas_comporsim": 99,
+                    "parcelas_pagas_compornao": 99,
+                    "idfilial": 99,
+                    "linha": "",
+                    "numero_parcelas": 99,
+                    "valor_avista": 99,
+                    "total_pedido": 99,
+                    "percentual_entrada": 99,
+                    "entregar": "",
+                    "bairro_entrega": "",
+                    "cidade_entrega": "",
+                    "uf_entrega": "",
+                    "idpropostacredito": 99,
+                    "fiador": "",
+                    "negado_financeira": "",
+                    "situacao_serasa": "",
+                    "score_serasa": 99,
+                    "score_spc": 99,
+                    "restricao_analisar": "",
+                    "perfil_pagador": ""
+                }
+            ]
+        },
+        "GlobalParameters": {}
+    }
+}
